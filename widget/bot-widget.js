@@ -437,6 +437,37 @@
       .replace(/"/g, "&quot;").replace(/'/g, "&#39;");
   }
 
+  // ---- link rewriting ----------------------------------------------------
+  // The bot's answers carry links to the site, and the knowledge base behind
+  // it is shared by every deployment of that site. A link written into it can
+  // therefore name a DIFFERENT deployment than the one the visitor is standing
+  // on — sending them off to a host they did not arrive at.
+  //
+  // So any link to a known deployment of this site is rewritten to the host
+  // this page was served from. The path is kept, because it is the same site.
+  //
+  // Links to anywhere else — a registration form, a ticket seller, Instagram —
+  // are left completely alone. Those are not this site's pages.
+  var SITE_HOSTS = [
+    "meraz.iitbhilai.ac.in",
+    "meraz7.vercel.app",
+    "meraz.vercel.app",
+  ];
+
+  function siteUrl(raw) {
+    if (!raw) return "";
+    try {
+      var here = new URL(window.location.href);
+      var u = new URL(raw, here.href);
+      if (SITE_HOSTS.indexOf(u.host) === -1) return raw;   // not ours: leave it
+      u.protocol = here.protocol;
+      u.host = here.host;
+      return u.href;
+    } catch (e) {
+      return raw;                                          // unparseable: leave it
+    }
+  }
+
   function say(html, hint) {
     screen.className = "answer" + (hint ? " hint" : "");
     screen.innerHTML = html;
@@ -474,7 +505,7 @@
       // When it is set, offer the link. No trailing arrow: the words already
       // say what happens.
       if (data.url) {
-        html += `<br><a href="${escapeHtml(data.url)}">Open the page</a>`;
+        html += `<br><a href="${escapeHtml(siteUrl(data.url))}">Open the page</a>`;
       }
       say(html, false);
     } catch (err) {

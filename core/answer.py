@@ -43,6 +43,56 @@ LLM_MODEL = os.environ.get("COMPASS_LLM_MODEL", "openai/gpt-oss-120b")
 # three bloats the prompt (so: slower, and more tokens against a free tier).
 N_CANDIDATES = 3
 
+# ---- CANONICAL SITE ORIGIN -------------------------------------------------
+# The widget is embedded on more than one deployment of the site, so a link
+# written into the knowledge file is not automatically right for all of them.
+# Everything the bot hands back as a link is rewritten to this origin, so a
+# visitor on whichever deployment they landed on is sent to that deployment.
+#
+# It is read from the environment so a preview deploy can point somewhere else
+# without a code change, and so the value lives in one place instead of being
+# repeated across the knowledge file.
+SITE_ORIGIN = os.environ.get(
+    "COMPASS_SITE_ORIGIN", "https://meraz.iitbhilai.ac.in").rstrip("/")
+
+# Origins that must never be handed to a visitor. The first is a previous
+# deployment of the same site; the second is a preview deployment. A link to
+# either sends the visitor off the site they are standing on.
+_DEAD_ORIGINS = (
+    "https://meraz7.vercel.app",
+    "https://meraz.vercel.app",
+)
+
+
+def canonicalize_links(text):
+    """Point every link in `text` at SITE_ORIGIN.
+
+    Applied to the model's own answer text, not only to the chunk's url field,
+    because the model quotes URLs from the candidate it read — a knowledge file
+    that still carries an old host would otherwise leak it into the answer.
+    """
+    if not isinstance(text, str) or not text:
+        return text
+    for dead in _DEAD_ORIGINS:
+        text = text.replace(dead, SITE_ORIGIN)
+    return text
+
+
+def canonicalize_result(result):
+    """Apply canonicalize_links to every link-bearing field of a response.
+
+    Returns a COPY rather than editing in place: the caller passes in the
+    cached answer, and baking the rewrite into the cache would make the
+    rewrite permanent for that entry.
+    """
+    if not isinstance(result, dict):
+        return result
+    out = dict(result)
+    for field in ("url", "explanation"):
+        if out.get(field):
+            out[field] = canonicalize_links(out[field])
+    return out
+
 # Characters of each candidate's content included in the prompt. Enough to
 # answer from, short enough to keep three candidates cheap.
 MAX_CHARS = 600

@@ -16,6 +16,7 @@ from rest_framework.exceptions import APIException
 from rest_framework.response import Response
 
 from core.answer import answer as answer_question
+from core.answer import canonicalize_result
 
 from compass.boot import warm
 from ask.serializers import AskInSerializer, AskOutSerializer
@@ -61,7 +62,7 @@ def ask(request):
     # hit costs no time and no tokens.
     hit = cache_get(question)
     if hit is not None:
-        return Response(AskOutSerializer(hit).data)
+        return Response(AskOutSerializer(canonicalize_result(hit)).data)
 
     result = answer_question(question, STATE["chunks"], STATE["vecs"],
                              STATE["llm"])
@@ -74,4 +75,7 @@ def ask(request):
     if result.get("reason") != "the assistant is temporarily unavailable":
         cache_put(question, result)
 
-    return Response(AskOutSerializer(result).data)
+    # Links are rewritten to the canonical origin LAST, on the way out, so
+    # both a fresh answer and a cached one carry the right host — and so the
+    # cache keeps whatever the index held, without the rewrite baked in.
+    return Response(AskOutSerializer(canonicalize_result(result)).data)

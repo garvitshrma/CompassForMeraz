@@ -88,3 +88,10 @@ services:
       # spend your free token budget, and the bot stops answering for Meraz.
       - key: CORS_ORIGINS
         value: "https://meraz.iitbhilai.ac.in,https://meraz7.vercel.app"
+
+      # THE SITE THE BOT'S LINKS POINT AT. The widget is embedded on more than
+      # one deployment, so a link written into the knowledge base can name a
+      # different one than the visitor arrived on. Every link the bot returns
+      # is rewritten to this origin.
+      - key: COMPASS_SITE_ORIGIN
+        value: "https://meraz.iitbhilai.ac.in"

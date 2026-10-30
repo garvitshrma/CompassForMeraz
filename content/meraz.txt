@@ -4,7 +4,7 @@ title: Meraz 7.0
  EVERYTHING BELOW IS THE BOT'S ENTIRE KNOWLEDGE.
  If a fact is not written here, the bot refuses rather than guesses.
 
- Checked page by page against meraz7.vercel.app on 28 October 2026:
+ Checked page by page against meraz.iitbhilai.ac.in on 28 October 2026:
  /  ·  /about/  ·  /events/  ·  /sponsors/  ·  /passes/  ·  /contact/  ·  /outreach/
 
  Two rules for editing this file:
@@ -20,80 +20,80 @@ title: Meraz 7.0
 -------------------------------------------------------------------------------
 
 # What is Meraz
-url: https://meraz7.vercel.app/about/
+url: https://meraz.iitbhilai.ac.in/about/
 Meraz is the annual techno-cultural fest of IIT Bhilai. It combines technology,
 art and culture: tech showcases, coding battles, performances, fashion and
 food, across more than a hundred events.
 
 # What is Meraz 7.0
-url: https://meraz7.vercel.app/about/
+url: https://meraz.iitbhilai.ac.in/about/
 Meraz 7.0 is the seventh edition, the Retro India edition, themed "The Great
 Indian Reverie" with the tagline "Rewind. Replay. Rejoice."
 
 # What is the theme of Meraz 7.0
-url: https://meraz7.vercel.app/about/
+url: https://meraz.iitbhilai.ac.in/about/
 The theme is "The Great Indian Reverie", a Retro India edition. It draws on
 nostalgic Indian imagery: a projector flickering in a village square, a truck
 with "Horn OK Please" painted on its back, a transistor radio crackling from a
 windowsill.
 
 # What does "Rewind. Replay. Rejoice." mean
-url: https://meraz7.vercel.app/about/
+url: https://meraz.iitbhilai.ac.in/about/
 "Rewind. Replay. Rejoice." is the tagline of Meraz 7.0. It goes with the Retro
 India theme, The Great Indian Reverie, and the idea of the fest as a
 blockbuster release you watch again.
 
 # How many participants attend Meraz
-url: https://meraz7.vercel.app/about/
+url: https://meraz.iitbhilai.ac.in/about/
 Meraz 7.0 lists 4000+ participants and 2500+ online audience, across 100+
 events.
 
 # How big is Meraz
-url: https://meraz7.vercel.app/about/
+url: https://meraz.iitbhilai.ac.in/about/
 Meraz 7.0 lists 100+ events, 4000+ participants and 2500+ online audience.
 The Events page names 71 of those events across its five categories.
 
 # When is Meraz 7.0
-url: https://meraz7.vercel.app/passes/
+url: https://meraz.iitbhilai.ac.in/passes/
 The dates of Meraz 7.0 are 30 October to 1 November 2026: three days, Friday
 to Sunday.
 
 ## What are the dates of Meraz 7.0
-url: https://meraz7.vercel.app/passes/
+url: https://meraz.iitbhilai.ac.in/passes/
 Meraz 7.0 takes place on 30, 31 October and 1 November 2026.
 
 # Which date is Day 1, Day 2 and Day 3
-url: https://meraz7.vercel.app/passes/
+url: https://meraz.iitbhilai.ac.in/passes/
 The fest runs 30 October to 1 November 2026. Day 1 is 30 October, Day 2 is
 31 October and Day 3 is 1 November 2026.
 
 # Where is Meraz held
-url: https://meraz7.vercel.app/contact/
+url: https://meraz.iitbhilai.ac.in/contact/
 Meraz is held at the Indian Institute of Technology Bhilai, Durg,
 Chhattisgarh, India - 491002.
 
 # How do I reach IIT Bhilai
-url: https://meraz7.vercel.app/contact/
+url: https://meraz.iitbhilai.ac.in/contact/
 IIT Bhilai is in Durg, Chhattisgarh, India - 491002. The Meraz website does not
 publish travel, shuttle or pickup details. For directions, call the Fest Head,
 Arush Ranjan, on +91 7780070550, or email meraz@iitbhilai.ac.in.
 
 # What is the official Meraz website
-The official Meraz 7.0 website is https://meraz7.vercel.app/. It has seven
+The official Meraz 7.0 website is https://meraz.iitbhilai.ac.in/. It has seven
 pages: Home, About, Events, Sponsors, Passes, Contact and Outreach.
 
 # What is the official Meraz Instagram
-url: https://meraz7.vercel.app/outreach/
+url: https://meraz.iitbhilai.ac.in/outreach/
 The official Meraz Instagram account is @meraziitbh, at
 https://www.instagram.com/meraziitbh/. It is where the fest posts updates and
 announcements.
 
 # What is the official Meraz email address
-url: https://meraz7.vercel.app/contact/
+url: https://meraz.iitbhilai.ac.in/contact/
 meraz@iitbhilai.ac.in is the official email for Meraz, IIT Bhilai.
 
 # Who organises Meraz
-url: https://meraz7.vercel.app/contact/
+url: https://meraz.iitbhilai.ac.in/contact/
 Meraz is the annual fest of IIT Bhilai. The Contact page names the Fest Head,
 the Fest Convener and a convener for each team.
 
@@ -104,12 +104,12 @@ performance. The announced Pronite artists are Jyotirmayee on Day 2, and
 Nakash Aziz, Qafila - The Band and D.J. Prerak on Day 3.
 
 # Is entry to Meraz free
-url: https://meraz7.vercel.app/passes/
+url: https://meraz.iitbhilai.ac.in/passes/
 No. Campus entry requires a valid Access Pass or Student Pass, and the cheapest
 is the Access Pass at ₹99 for one day, excluding Pronites.
 
 # What are the pass prices
-url: https://meraz7.vercel.app/passes/
+url: https://meraz.iitbhilai.ac.in/passes/
 Pass prices: Access Pass ₹99, Day 2 Pronites Pass ₹299, Day 3 Pronites Pass
 ₹499, Accommodation Pass ₹3,499. In a group of 10 or more, Day 2 is ₹249,
 Day 3 is ₹449 and Accommodation is ₹2,999 per person.
@@ -117,7 +117,7 @@ Buy passes online at https://meraz.ksverse.in/ — the booking link on the
 Passes page of the Meraz website.
 
 # What is the ticket price for Meraz 7.0
-url: https://meraz7.vercel.app/passes/
+url: https://meraz.iitbhilai.ac.in/passes/
 Tickets (passes) cost between ₹99 and ₹3,499. The Access Pass, a single-day
 entry ticket, is ₹99. The Day 2 Pronites Pass is ₹299, the Day 3 Pronites
 Pass is ₹499, and the three-day Accommodation Pass is ₹3,499. Groups of 10 or
@@ -125,165 +125,165 @@ more pay ₹249, ₹449 and ₹2,999 per person respectively. Buy tickets online
 https://meraz.ksverse.in/.
 
 # What passes are available and what do they cost
-url: https://meraz7.vercel.app/passes/
+url: https://meraz.iitbhilai.ac.in/passes/
 There are four passes. The Access Pass is ₹99 for single-day entry, excluding
 Pronites. The Day 2 Pronites Pass is ₹299. The Day 3 Pronites Pass is ₹499.
 The Accommodation Pass is ₹3,499 and covers three days of stay and food, all
 events and all Pronites.
 
 # Is there a registration fee to attend Meraz
-url: https://meraz7.vercel.app/passes/
+url: https://meraz.iitbhilai.ac.in/passes/
 Attending Meraz is not free: campus entry needs a pass, from the ₹99 Access
 Pass for one day without Pronites up to the ₹3,499 Accommodation Pass. The pass
 covers entry to the events on the day it is valid. Separately, the Gandhi
 Hackathon states its own registration fee.
 
 # Can students from other colleges attend Meraz
-url: https://meraz7.vercel.app/passes/
+url: https://meraz.iitbhilai.ac.in/passes/
 The Access Pass is a student pass and a valid student ID card is mandatory for
 entry; the Passes page does not limit it to IIT Bhilai students. The Campus
 Ambassador programme is specifically for students at other colleges, with 31
 ambassadors across 9 colleges.
 
 # What is the difference between the Access Pass and a Pronites Pass
-url: https://meraz7.vercel.app/passes/
+url: https://meraz.iitbhilai.ac.in/passes/
 The Access Pass at ₹99 is single-day entry to events only, excluding Pronites.
 The Day 2 Pass at ₹299 and the Day 3 Pass at ₹499 include full access to that
 day's events plus that night's Pronite. The Accommodation Pass at ₹3,499 covers
 all three days, stay, food, all events and all Pronites.
 
 # What does the Access Pass include
-url: https://meraz7.vercel.app/passes/
+url: https://meraz.iitbhilai.ac.in/passes/
 The Access Pass costs ₹99. It is a single-day pass for students to attend
 Meraz events on any one day of the fest, excluding Pronites. A valid student ID
 card is mandatory for entry.
 
 # What does the Day 2 Pronites Pass include
-url: https://meraz7.vercel.app/passes/
+url: https://meraz.iitbhilai.ac.in/passes/
 The Day 2 Pronites Pass costs ₹299 and gives full Day 2 access as an audience
 member, including the Day 2 Pronite with Jyotirmayee. In a group of 10 or more
 it costs ₹249 per person.
 
 # What does the Day 3 Pronites Pass include
-url: https://meraz7.vercel.app/passes/
+url: https://meraz.iitbhilai.ac.in/passes/
 The Day 3 Pronites Pass costs ₹499 and gives full Day 3 access as an audience
 member, including the Day 3 Pronite with Nakash Aziz, Qafila - The Band and
 D.J. Prerak. In a group of 10 or more it costs ₹449 per person.
 
 # What does the Accommodation Pass include
-url: https://meraz7.vercel.app/passes/
+url: https://meraz.iitbhilai.ac.in/passes/
 The Accommodation Pass costs ₹3,499. It covers three days of accommodation and
 food, access to all events, and entry to all Pronites.
 
 # Is there a group discount on passes
-url: https://meraz7.vercel.app/passes/
+url: https://meraz.iitbhilai.ac.in/passes/
 Yes, for groups of 10 or more people. The Day 2 Pronites Pass drops to ₹249 per
 person and the Day 3 Pass to ₹449, each saving ₹50. The Accommodation Pass
 drops to ₹2,999 per person, saving ₹500. The Access Pass has no group
 concession and stays ₹99.
 
 # Do I need a student ID for the Access Pass
-url: https://meraz7.vercel.app/passes/
+url: https://meraz.iitbhilai.ac.in/passes/
 Yes. The Access Pass is for students only and a valid student ID card is
 mandatory for entry.
 
 # Do I need a pass to enter the campus
-url: https://meraz7.vercel.app/passes/
+url: https://meraz.iitbhilai.ac.in/passes/
 Yes. Entry to the IIT Bhilai campus for Meraz requires a valid Access Pass or
 Student Pass.
 
 # Where do I buy passes
-url: https://meraz7.vercel.app/passes/
+url: https://meraz.iitbhilai.ac.in/passes/
 Passes are bought online at https://meraz.ksverse.in/, the booking link on the
 Passes page of the Meraz website.
 
 # Can I buy a pass at the venue or on the day
-url: https://meraz7.vercel.app/passes/
+url: https://meraz.iitbhilai.ac.in/passes/
 The website sells passes online through meraz.ksverse.in and does not say
 whether passes are also sold at the gate. For a same-day purchase, call the
 pass helpline on +91 62815 21833 or +91 76674 16430.
 
 # Is the Access Pass valid for all three days
-url: https://meraz7.vercel.app/passes/
+url: https://meraz.iitbhilai.ac.in/passes/
 No. The Access Pass is a single-day pass: it covers Meraz events on any one day
 of the fest, not all three, and it excludes Pronites.
 
 # Does the Access Pass include the Pronites
-url: https://meraz7.vercel.app/passes/
+url: https://meraz.iitbhilai.ac.in/passes/
 No. The Access Pass excludes Pronites. To attend a Pronite you need the Day 2
 Pronites Pass, the Day 3 Pronites Pass, or the Accommodation Pass.
 
 # Does a Pronites Pass include the daytime events
-url: https://meraz7.vercel.app/passes/
+url: https://meraz.iitbhilai.ac.in/passes/
 Yes. The Day 2 Pronites Pass gives full Day 2 access plus the Day 2 Pronite,
 and the Day 3 Pronites Pass gives full Day 3 access plus the Day 3 Pronite.
 
 # How much does it cost to attend all three days
-url: https://meraz7.vercel.app/passes/
+url: https://meraz.iitbhilai.ac.in/passes/
 The only pass that covers all three days is the Accommodation Pass at ₹3,499,
 which includes three days of stay and food, all events and all Pronites. The
 Access Pass is single-day at ₹99, and the two Pronites Passes cover one night
 each.
 
 # Is there a pass that covers both Pronite nights
-url: https://meraz7.vercel.app/passes/
+url: https://meraz.iitbhilai.ac.in/passes/
 No combined Day 2 and Day 3 pass is sold on the Passes page. Both Pronites are
 included only in the Accommodation Pass, which also covers three days of stay
 and food. Two-day passes appear on the Outreach page only as rewards for Campus
 Ambassadors, not as something you can buy.
 
 # Is food included in the pass
-url: https://meraz7.vercel.app/passes/
+url: https://meraz.iitbhilai.ac.in/passes/
 The Accommodation Pass includes food for three days. The Passes page does not
 say whether food is included with the Access Pass or the Pronites Passes.
 
 # Is accommodation available for outside participants
-url: https://meraz7.vercel.app/passes/
+url: https://meraz.iitbhilai.ac.in/passes/
 Yes. The Accommodation Pass at ₹3,499 covers three days of accommodation and
 food, plus access to all events and all Pronites.
 
 # Are passes refundable, transferable or upgradable
-url: https://meraz7.vercel.app/passes/
+url: https://meraz.iitbhilai.ac.in/passes/
 The Meraz website does not publish a refund, transfer or upgrade policy for
 passes. For any of these, call the pass helpline on +91 62815 21833 or
 +91 76674 16430.
 
 # Is there a last date to buy passes
-url: https://meraz7.vercel.app/passes/
+url: https://meraz.iitbhilai.ac.in/passes/
 The Meraz website does not give a closing date for pass sales. Passes are sold
 online at meraz.ksverse.in; for a deadline or a same-day purchase, call
 +91 62815 21833 or +91 76674 16430.
 
 # Who do I contact about a pass or payment problem
-url: https://meraz7.vercel.app/passes/
+url: https://meraz.iitbhilai.ac.in/passes/
 Call +91 62815 21833 or +91 76674 16430 for any query or issue with passes.
 The Contact page also lists the Finance conveners: Varshitha on +91 6281521833
 and Ankan Mondal on +91 9064825588.
 
 # Can I attend Meraz without being a student
-url: https://meraz7.vercel.app/passes/
+url: https://meraz.iitbhilai.ac.in/passes/
 The website does not describe a general-public pass. Campus entry needs a valid
 Access Pass or Student Pass, and the Access Pass is for students only with a
 valid student ID card. The Pronites and Accommodation Passes are not described
 as student-only.
 
 # What is a Pronite
-url: https://meraz7.vercel.app/passes/
+url: https://meraz.iitbhilai.ac.in/passes/
 Pronites are the fest's evening concert nights. The Passes page sells a Day 2
 Pronites Pass and a Day 3 Pronites Pass, and the Outreach rewards refer to
 "both concert nights" and to the Day 3 concert.
 
 # Who is performing at the Day 2 Pronite
-url: https://meraz7.vercel.app/passes/
+url: https://meraz.iitbhilai.ac.in/passes/
 The Day 2 Pronite features Jyotirmayee, listed on the Passes page as
 JYOTIRMAYEE BAND.
 
 # Who is performing at the Day 3 Pronite
-url: https://meraz7.vercel.app/passes/
+url: https://meraz.iitbhilai.ac.in/passes/
 The Day 3 Pronite features Nakash Aziz, Qafila - The Band and D.J. Prerak.
 
 # Is there a Day 1 Pronite
-url: https://meraz7.vercel.app/passes/
+url: https://meraz.iitbhilai.ac.in/passes/
 No Day 1 Pronite is announced. The Passes page sells Pronites passes only for
 Day 2 and Day 3, and the Outreach rewards mention two concert nights.
 
@@ -294,535 +294,535 @@ Pronite artists are Jyotirmayee on Day 2, and Nakash Aziz, Qafila - The Band
 and D.J. Prerak on Day 3.
 
 # What time do the Pronites start
-url: https://meraz7.vercel.app/passes/
+url: https://meraz.iitbhilai.ac.in/passes/
 The Meraz website does not publish Pronite start times. The Passes page names
 the artists and the nights but no timings. Follow @meraziitbh on Instagram for
 the running order.
 
 # What kinds of events are there
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Meraz events fall into five categories: Culturals, Sci-Tech, Informals and
 Varchasva, E-Cell, and FinTech.
 
 # How many events does Meraz 7.0 list
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 The Events page names 71 events: 19 Culturals, 15 Sci-Tech, 34 Informals and
 Varchasva, 1 E-Cell and 2 FinTech. The About page describes the fest as having
 100+ events in all.
 
 # How do I register for an event
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Most events on the Events page carry a Register button that opens a Google
 Form; register for the event you want from that page. Where no form is listed,
 the page shows "Coming Soon", and informal events are registered on the spot.
 
 # Is there a registration fee for events
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 The Gandhi Hackathon, a Sci-Tech event, states that a registration fee applies.
 The Events page does not list a fee for any other event.
 
 # Are event rules, team sizes and prize money published
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 No. The Events page gives each event's description and its registration link,
 but not its rules, team size, entry fee or prize money. For those details,
 contact the convener for that category — Cultural, Sci-Tech, or Sports and
 Informals.
 
 # What is the day-wise schedule of events
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 The website does not publish a day-wise schedule or start times for individual
 events. It lists the three fest days, 30 October to 1 November 2026, and the
 events in each category. Follow @meraziitbh on Instagram for the schedule.
 
 # What is the registration deadline for events
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 No registration deadline is published. Registrations run through the Register
 links on the Events page, events marked "Coming Soon" open later, and informal
 events are registered on the spot during the fest.
 
 # Are there coding and AI competitions at Meraz
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Yes, in the Sci-Tech category: Runtime Roulette, a 5-round coding contest;
 VibeChain, a 3-hour blockchain dApp hackathon; Agent Wars, where you build
 autonomous AI agents; Jailbreaking LLM, a 3-round AI safety challenge; and
 Evo AI: Evolve, Adapt, Conquer.
 
 # Are there robotics events at Meraz
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Yes, in Sci-Tech: Line Follower, Robo Soccer, RC Plane Comp and Circuit
 Syndicate.
 
 # Are there sports tournaments at Meraz
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Yes, in the Informals and Varchasva category: Futsal Championship, Basketball
 League, Box Cricket and Volleyball.
 
 # Are there esports tournaments at Meraz
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Yes. Valorant runs as 5v5 matches, and BGMI, Free Fire and Stumble Guys are
 also on the Events page. Tekken is in the same Informals and Varchasva
 category.
 
 # What is the Culturals category at Meraz
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Culturals, सांस्कृतिक, is the cultural events category: quizzes, theatre,
 dance, music, fashion and art.
 
 # What are the Culturals events at Meraz 7.0
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Celebrate creativity, rhythm, and expression where every act is a spark and every display a masterpiece born of passion and artistry.
 The 19 Culturals events: General Quiz, NSFW Quiz, Photo of the Fest: Candid Edition, Youth Parliament, Abhivyakti, Murder Mystery, Pukaar - Nukkad Natak, Dance Solitaire - Solo Dance, IN10SITY, Fragments, Switch, Beyond Sight, Nirmiti: Live Digital Art Challenge, Chitrakatha: Photo-Story Manipulation Challenge, Shredded: Battle of Bands, Sur-Real, Copy Cut: Movie Scene Recreation, Alter Ego, Attire Spectra.
 
 ## General Quiz
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 A quiz covering a wide range of topics, from history and science to culture, sports and current affairs.
 Category: Culturals. Register here (IIT Bhilai participants): https://docs.google.com/forms/d/e/1FAIpQLSf6o9vtxPG6X7FGy_3hMhrI6yYkDtzZD6PMbb2yfGwNARxGaA/viewform?usp=sharing&ouid=111708333119112713425
 
 ## NSFW Quiz
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 A quiz on umm well, rather interesting things 👀👀
 Category: Culturals. Register here (IIT Bhilai participants): https://docs.google.com/forms/d/e/1FAIpQLSdNCsPZwhDlsKg_IMiopIMgTlQAXHThSgMNqSHBTNaHKIV-ig/viewform?usp=sharing&ouid=111708333119112713425
 
 ## Photo of the Fest: Candid Edition
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Capture the spirit of Meraz through your lens! Photo of the Fest is an online photography competition where participants capture candid moments, genuine emotions, and the vibrant atmosphere of the fest. Showcase your creativity by turning ordinary moments into extraordinary photographs that tell a story. Submit your best shots and let your perspective stand out! In collaboration with DesignX Kathachitra.
 Category: Culturals. Register here (IIT Bhilai participants): https://docs.google.com/forms/d/e/1FAIpQLSfL8uoSPSRBuaK9Ar86v4m1l1Ooc47RYLGesYQiCZnrR9ewdg/viewform?usp=sharing&ouid=111708333119112713425
 
 ## Youth Parliament
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Step into the shoes of national lawmakers in a dynamic simulation where participants debate pressing policies, draft legislation, and navigate complex parliamentary procedures. It is a premier platform for young leaders to test their diplomacy, hone their public speaking, and drive impactful change on a competitive stage.
 Category: Culturals. Register here (IIT Bhilai participants): https://docs.google.com/forms/d/1dW48KKFh68GHb3SnYBqbcmvuLoSW7enl0uupStI9Heo/edit
 
 ## Abhivyakti
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Immerse yourself in the rhythm of spoken word at our Hindi Slam, a vibrant stage where poets breathe life into raw emotions and compelling stories. Join us for an electrifying event that celebrates the power, passion, and beauty of Hindi performance poetry.
 Category: Culturals. Register here (IIT Bhilai participants): https://docs.google.com/forms/d/e/1FAIpQLSdpLvIuoquLCncBn15rJbAVtkCM1fGRfRJ59yGnbfk3MNH8dQ/viewform?usp=sharing&ouid=111708333119112713425
 
 ## Murder Mystery
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 A murder mystery is a themed event where there are fictional characters in a fictional story. The participants will then work together to solve a fictitious murder which occurs during the event. Most of the characters are gray. They are all suspects of the murder and have to be investigated by the participating teams to solve the mystery. Characters can’t lie but mislead the participants in different ways.
 Category: Culturals. Register here (IIT Bhilai participants): https://docs.google.com/forms/d/e/1FAIpQLSfjnwDE6p6Thx9_rcFvb5-VsH_izrN6OaZebd1uelAmZOSb-A/viewform?usp=sharing&ouid=111708333119112713425
 
 ## Pukaar - Nukkad Natak
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Experience the raw energy of Nukkad Natak! This powerful street play brings social issues to life with passion, humor, and heart. With minimal props and dynamic performances, it’s an exciting, spontaneous way to engage the crowd and make a real impact.
 Category: Culturals. Register here (IIT Bhilai participants): https://docs.google.com/forms/d/e/1FAIpQLScFc9t8P2pMhO2GeyuTqyb9SfNmrwQKlFW1e-4tJjhwEMW-mg/viewform?usp=sharing&ouid=111708333119112713425
 
 ## Dance Solitaire - Solo Dance
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 An open solo dance battle/performance round, freestyle or choreographed, judged on technique, musicality, and stage presence. Held live on campus.
 Category: Culturals. Register here (IIT Bhilai participants): https://docs.google.com/forms/d/e/1FAIpQLScnRnrXN8zChlNfYjqPnp-0tXWAYZmfV-IKvN6of3Am0UhgmA/viewform?usp=sharing&ouid=111708333119112713425
 
 ## IN10SITY
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 A team-based choreographed dance battle open to multiple genres, judged on synchronisation, choreography, and overall performance.
 Category: Culturals. Register here (IIT Bhilai participants): https://docs.google.com/forms/d/e/1FAIpQLScimvHXNK4uN47KeDSUf9eV4ULi0BSvc-7l_Xjp6-hLBWnatA/viewform?usp=sharing&ouid=111708333119112713425
 
 ## Fragments
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Every piece tells a story, but together, they create a masterpiece! In Fragments, team up with your crew, unleash your creativity, and turn individual puzzle pieces into one spectacular work of art. Can your fragments come together in harmony?
 Category: Culturals. Register here (IIT Bhilai participants): https://docs.google.com/forms/d/e/1FAIpQLSeuo_fVnd9ZMMmdfOFgnOTvdym-5GwI3rgDPfM2t4KEVh78wg/viewform?usp=sharing&ouid=111708333119112713425
 
 ## Switch
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Two artists, two canvases, and a switch every two minutes! Just when you find your rhythm, it's time to switch. Adapt to your partner's ideas, build on their strokes, and see how creative chaos transforms into art.
 Category: Culturals. Register here (IIT Bhilai participants): https://docs.google.com/forms/d/e/1FAIpQLScEh8ZTid9Gdxr0n7JTvRnadVs0XjzamGlb9j93or0zWE66-A/viewform?usp=sharing&ouid=111708333119112713425
 
 ## Beyond Sight
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 What happens when vision meets imagination? In Beyond Sight, one partner paints blindfolded while the other guides every stroke. Put your trust, communication, and creativity to the test, and turn the unseen into a masterpiece!
 Category: Culturals. Register here (IIT Bhilai participants): https://docs.google.com/forms/d/e/1FAIpQLScMtrKignqp-jM41_1S57IRnZ2K1n9iuFZqG7_vwCBdHVkVwA/viewform?usp=sharing&ouid=111708333119112713425
 
 ## Nirmiti: Live Digital Art Challenge
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Every great character starts as something unexpected. Nirmiti is DesignX’s on-the-spot digital art challenge: you get a random, unconventional shape and must turn it into a full character design on our graphic tablets, in any style you choose, within 20 minutes.
 Category: Culturals. Registration is not open yet; the Events page lists it as Coming Soon.
 
 ## Chitrakatha: Photo-Story Manipulation Challenge
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Shoot 6 to 7 original photographs that narrate a story, then take them into Photoshop and amplify the mood by painting, grading, and drawing over your frames. Your camera is the pen, so bring a story worth showing.
 Category: Culturals. Register here (IIT Bhilai participants): https://docs.google.com/forms/d/e/1FAIpQLSdJ1IDUX84otHfBRFPs7W2WqFjah3YD2HyFG-8NZj2OLaettA/viewform?usp=sharing&ouid=111708333119112713425
 
 ## Shredded: Battle of Bands
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Turn up the volume, unleash the riffs, and let the battle begin! In Shredded – Battle of Bands, bring your band together, ignite the stage with electrifying solos, thunderous beats, and roaring vocals, and prove that your music has what it takes to steal the show. When the amps are cranked up and the stage is yours, will your band shred its way to victory?
 Category: Culturals. Register here (IIT Bhilai participants): https://docs.google.com/forms/d/e/1FAIpQLSf48UrE3ZTgPkzLWjK7eSJIqvfAaQTkbZros_M3GaYf3I9Hzg/viewform?usp=sharing&ouid=111708333119112713425
 
 ## Sur-Real
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Some voices are heard, but some are felt! In Sur-Real, take the stage, let your melodies speak, and transform every note into an unforgettable experience. Pour your heart into every lyric, captivate the audience with your sur, and let your voice create magic that transcends the ordinary. Are you ready to make the unreal sound sur-real?
 Category: Culturals. Register here (IIT Bhilai participants): https://docs.google.com/forms/d/e/1FAIpQLSed-jnryk1-h5F424TlR6zXfs8Rzm8QGbLekZvpMt5jd78UMw/viewform?usp=sharing&ouid=111708333119112713425
 
 ## Copy Cut: Movie Scene Recreation
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Participants are invited to select a movie sequence of their choice, ranging from dramatic dialogues to simple comedic exchanges, and recreate it. Elaborate sets and professional lighting are not required; instead, we encourage the innovative use of accessible locations, props, and standard camera equipment (including smartphones) to capture the core essence of the original sequence.
 Category: Culturals. Register here (IIT Bhilai participants): https://forms.gle/kE6VYZryHZnZUXNz8
 
 ## Alter Ego
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 AlterEgo is the perfect opportunity to step into the shoes of a character you've always dreamed of becoming. No strict rules, just express yourself and have fun! There are no boundaries to what you can become. You also win a chance to get exciting prizes in various games.
 Category: Culturals. Register here (IIT Bhilai participants): https://docs.google.com/forms/d/e/1FAIpQLSet9Nia2jSb0EGigYV6LZI5DAzofSV9NZupzAp78KV_pe0RvA/viewform?usp=publish-editor
 
 ## Attire Spectra
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 The platform for participants to showcase their style, confidence, and personality while walking the runway. Bring your best looks, own the stage, and leave the audience mesmerized with your attitude and presence!
 Category: Culturals. Register here (IIT Bhilai participants): https://docs.google.com/forms/d/e/1FAIpQLSeaEDQDDLrP0OCNP8KQM9AUM_e8HQnOqVsxsDnHol3gT_d1hA/viewform?usp=sharing&ouid=111708333119112713425
 
 # What are the Sci-Tech events at Meraz 7.0
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Step into a crucible of innovation, where science and technology are unveiled in dazzling brilliance through our trailblazing events.
 The 15 Sci-Tech events: Messier Marathon, RC Plane Comp, Battleship, Circuit Syndicate, The Lattice, Nightjar, Gandhi Hackathon, Agent Wars, Cad Rift, Runtime Roulette, Jailbreaking LLM, Evo AI: Evolve, Adapt, Conquer, Line Follower, Robo Soccer, VibeChain.
 
 ## Messier Marathon
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Analyze real NASA data to track Messier objects and break a chain of locked puzzles.
 Category: Sci-Tech. Register here (IIT Bhilai participants): https://forms.gle/sAUpHV2emBz7qVsdA
 
 ## RC Plane Comp
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Design, build, and fly an RC aircraft from scratch—put your engineering, flight performance, and precision to the test.
 Category: Sci-Tech. Register here (IIT Bhilai participants): https://forms.gle/SxgkoaqZAMNwSGmi7
 
 ## Battleship
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Think you played Battleship? Experience the classic game reinvented as 4 teams clash live with custom consoles, shields, sonar scans, and hidden mines to be the last fleet standing.
 Category: Sci-Tech. Register here (IIT Bhilai participants): https://forms.gle/96RGvbzWQVBoZXA39
 
 ## Circuit Syndicate
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Step into the arena with your syndicate—scavenge, build, and program your way to victory!
 Category: Sci-Tech. Register here (IIT Bhilai participants): https://docs.google.com/forms/d/1Jys22gdJ3of8CLO96P9mN9biqFVEVZU87R8uN5sJ-ys/edit
 
 ## The Lattice
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 One campus. Contradicting trails. Trust no isolated story—trade intel, connect the missing pieces, and uncover the organization's hidden truth.
 Category: Sci-Tech. Register here (IIT Bhilai participants): https://docs.google.com/forms/d/e/1FAIpQLSf0UAJ5xOsvdRmg-puMNfyPFC5OFTThFdcjbX0NtxRnbU4iMw/viewform?usp=sharing&ouid=111708333119112713425
 
 ## Nightjar
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 When NEXUS falls and the festival goes dark, you are the last line of defense. Trace the worm, expose the false insider, and isolate Patient Zero before the show begins.
 Category: Sci-Tech. Register here (IIT Bhilai participants): https://docs.google.com/forms/d/e/1FAIpQLSdbyid58_7dmWNN8bRcEazq4-qN9cDQ1amEqVTUbbpJ2r0auA/viewform?usp=sharing&ouid=111708333119112713425
 
 ## Gandhi Hackathon
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 A hackathon focused on social innovation and problem-solving inspired by Gandhian principles. Registration fee applies.
 Category: Sci-Tech. Register here (IIT Bhilai participants): https://docs.google.com/forms/d/e/1FAIpQLSfhBb3Iv_eMVsbf3zkAk-NrjRrqmuj9gZsXUCzLSgd6FJvCrw/viewform?usp=sharing&ouid=111708333119112713425
 
 ## Agent Wars
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Build and deploy autonomous AI agents to compete in a series of challenges. Test your agent's reasoning, planning, and adaptation skills.
 Category: Sci-Tech. Register here (IIT Bhilai participants): https://docs.google.com/forms/d/e/1FAIpQLSeR2fMq4Qd2fzUDvs4JN1x9vslLr-w4aNgKjDKuwDBwjHjWnA/viewform?usp=sharing&ouid=110638439702340357486
 
 ## Cad Rift
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 CAD design competition. Test your modeling skills and creativity as you design innovative solutions through challenging design problems.
 Category: Sci-Tech. Register here (IIT Bhilai participants): https://docs.google.com/forms/d/e/1FAIpQLSeTVcli85tKS4GYVsUAC9rGWVlCGMIHWnkRozpzGWzUH6pgMg/viewform?usp=sharing&ouid=111708333119112713425
 
 ## Runtime Roulette
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 A 5-round coding contest featuring Easy, Medium, and Hard problems in each round. Participants wager virtual coins, earn multipliers for solving problems, and compete to maximize their balance and top the leaderboard.
 Category: Sci-Tech. Register here (IIT Bhilai participants): https://docs.google.com/forms/d/e/1FAIpQLSf08QWDsQQ2WNWpWf2-AcAggdJR25CLeOQEeZHQkzNFwMSKsQ/viewform?usp=sharing&ouid=111708333119112713425
 
 ## Jailbreaking LLM
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 A 3-round LLM Jailbreaking event in which participants challenge AI safety guardrails through progressively harder tasks, from guessing hidden numbers to extracting secret keys and fictional private information.
 Category: Sci-Tech. Registration is not open yet; the Events page lists it as Coming Soon.
 
 ## Evo AI: Evolve, Adapt, Conquer
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 One agent. Five rounds. Infinite possibilities. Push the limits, evolve your AI, and outsmart the leaderboard!!
 Category: Sci-Tech. Register here (IIT Bhilai participants): https://docs.google.com/forms/d/e/1FAIpQLSe_LQL-PxkT-YMjU5-QUOcov8zlngQIexOyqesRsHEX29Fh6g/viewform
 
 ## Line Follower
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Watch high-speed robots race against the clock! Custom-built bots take on sharp turns and tough tracks completely on their own.
 Category: Sci-Tech. Register here (IIT Bhilai participants): https://docs.google.com/forms/d/e/1FAIpQLSf1WWrXIwZrtwMKbVSB262c3gONF6LSo41ppEaoGB7LSX6PQg/viewform?usp=sharing&ouid=110638439702340357486
 
 ## Robo Soccer
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Showcase your engineering skills as robots compete in an electrifying soccer game to score points and win!
 Category: Sci-Tech. Register here (IIT Bhilai participants): https://docs.google.com/forms/d/e/1FAIpQLScj8kt3yDmqwX9nSCvpUalLdcTqwhhzcnOfrzQ7SE30nyGD4Q/viewform?usp=sharing&ouid=111708333119112713425
 
 ## VibeChain
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Build a full-stack blockchain dApp with AI, write smart contracts, and hunt for vulnerabilities in this fast-paced 3-hour hackathon.
 Category: Sci-Tech. Register here (IIT Bhilai participants): https://docs.google.com/forms/d/e/1FAIpQLSfMoL_ZJsfg6Yrdy7s8PbfGDbEI6t7gTUXLshiNq5CpR9njHA/viewform?usp=publish-editor
 
 # What are the Informals and Varchasva events at Meraz 7.0
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Where fun meets competition , enjoy casual games and sports events that bring everyone together in the spirit of Meraz.
 The 34 Informals and Varchasva events: Radio Meraz, Housie, Lottery, Musical Headphones, Memory Flip, Poker Area, 7 Up, Roulette, Mini Football, Cluster, Jenga, Balloon Blast, Ring Toss, Tekken, Air Hockey, Beyblade Fight, Balls of Luck, Archery, Arm Wrestling, Spinning Wheel, Twister, Stack It, Balloon on Feet, Hit the Shuttle, Musical Chairs, Mystery Bag, Futsal Championship, Basketball League, Box Cricket, Volleyball, Valorant, BGMI, Stumble Guys, Free Fire.
 
 ## Radio Meraz
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 A fun radio-style stall with hosts, music, shout-outs, mini-games, and audience interaction.
 Category: Informals and Varchasva. Registration is on the spot at the stall.
 
 ## Housie
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Players mark called numbers on their tickets and win for completing a required pattern.
 Category: Informals and Varchasva. Registration is on the spot at the stall.
 
 ## Lottery
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Players draw a ticket or number; matching numbers can win a small prize.
 Category: Informals and Varchasva. Registration is on the spot at the stall.
 
 ## Musical Headphones
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Players wear headphones and try to identify a song or follow a musical challenge.
 Category: Informals and Varchasva. Registration is on the spot at the stall.
 
 ## Memory Flip
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Players flip cards to find matching pairs using memory and concentration.
 Category: Informals and Varchasva. Registration is on the spot at the stall.
 
 ## Poker Area
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 A casual card-table setup for poker-style play using clear rules and non-cash tokens.
 Category: Informals and Varchasva. Registration is on the spot at the stall.
 
 ## 7 Up
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Players predict or choose an outcome in a simple dice-based luck game.
 Category: Informals and Varchasva. Registration is on the spot at the stall.
 
 ## Roulette
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Players place tokens on a chosen number or colour and see where the wheel lands.
 Category: Informals and Varchasva. Registration is on the spot at the stall.
 
 ## Mini Football
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Players try to score goals using a tabletop or mini football setup.
 Category: Informals and Varchasva. Registration is on the spot at the stall.
 
 ## Cluster
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Players take turns placing magnetic stones without letting them attract or clump together.
 Category: Informals and Varchasva. Registration is on the spot at the stall.
 
 ## Jenga
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Players remove one wooden block at a time and stack it on top without toppling the tower.
 Category: Informals and Varchasva. Registration is on the spot at the stall.
 
 ## Balloon Blast
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Players throw darts or use a safe popping method to burst balloons and win a prize.
 Category: Informals and Varchasva. Registration is on the spot at the stall.
 
 ## Ring Toss
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Players toss rings toward pegs or targets to win a prize.
 Category: Informals and Varchasva. Registration is on the spot at the stall.
 
 ## Tekken
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Players compete in a short one-on-one fighting-game match using controllers.
 Category: Informals and Varchasva. Registration is on the spot at the stall.
 
 ## Air Hockey
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Players use mallets to hit a puck into the opponent's goal on an air-hockey table.
 Category: Informals and Varchasva. Registration is on the spot at the stall.
 
 ## Beyblade Fight
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Players launch spinning tops into an arena; the last top spinning or remaining in the arena wins.
 Category: Informals and Varchasva. Registration is on the spot at the stall.
 
 ## Balls of Luck
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Players try to pick same coloured balls from the bucket.
 Category: Informals and Varchasva. Registration is on the spot at the stall.
 
 ## Archery
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Players take turns aiming at a target for points using a supervised, safe setup.
 Category: Informals and Varchasva. Registration is on the spot at the stall.
 
 ## Arm Wrestling
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Two players compete in a short arm-wrestling match on a stable table with supervision.
 Category: Informals and Varchasva. Registration is on the spot at the stall.
 
 ## Spinning Wheel
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Players spin a wheel and receive the prize or challenge indicated by where it stops.
 Category: Informals and Varchasva. Registration is on the spot at the stall.
 
 ## Twister
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Players place hands and feet on called-out coloured circles while trying not to fall.
 Category: Informals and Varchasva. Registration is on the spot at the stall.
 
 ## Stack It
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Players stack boxes or objects as high as possible without the tower collapsing.
 Category: Informals and Varchasva. Registration is on the spot at the stall.
 
 ## Balloon on Feet
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Players try to pop or protect balloons tied to their ankles.
 Category: Informals and Varchasva. Registration is on the spot at the stall.
 
 ## Hit the Shuttle
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Players hit a shuttlecock toward a target or through a marked frame to score points.
 Category: Informals and Varchasva. Registration is on the spot at the stall.
 
 ## Musical Chairs
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Players walk around chairs while music plays; when it stops, everyone tries to sit.
 Category: Informals and Varchasva. Registration is on the spot at the stall.
 
 ## Mystery Bag
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Players buy mystery bags which contain random prizes.
 Category: Informals and Varchasva. Registration is on the spot at the stall.
 
 ## Futsal Championship
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Compete in an action-packed Futsal tournament.
 Category: Informals and Varchasva. Register here (IIT Bhilai participants): https://docs.google.com/forms/d/e/1FAIpQLScyG_eARGHIUbLvOtJrle2EUIxkn9GgywgkIfPUagwSZbsFng/viewform?usp=sharing&ouid=111708333119112713425
 
 ## Basketball League
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Shoot, dunk, and dominate the court!
 Category: Informals and Varchasva. Register here (IIT Bhilai participants): https://docs.google.com/forms/d/e/1FAIpQLSeewj6rd_gJPc0AINTqdTLxjm2ueQUjXlJWZuLmRw5UD5lkJg/viewform?usp=sharing&ouid=111708333119112713425
 
 ## Box Cricket
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Swing, smash, and own the box!.
 Category: Informals and Varchasva. Register here (IIT Bhilai participants): https://docs.google.com/forms/d/e/1FAIpQLSfEWXvYVZQHij47rULHhbDeBWtHeZVbesvpV8ZyUQvOj83DMA/viewform?usp=sharing&ouid=111708333119112713425
 
 ## Volleyball
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Set, spike, and rule the court!
 Category: Informals and Varchasva. Register here (IIT Bhilai participants): https://docs.google.com/forms/d/e/1FAIpQLScRIm6OW7qRPvl0U3JrCK0MF-yqPEF8Zl8arCBlz1oEoiNeNg/viewform?usp=sharing&ouid=111708333119112713425
 
 ## Valorant
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Team up and showcase your tactical prowess in intense 5v5 battles.
 Category: Informals and Varchasva. Registration is on the spot at the stall.
 
 ## BGMI
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Drop in, gear up, and survive the battlefield.
 Category: Informals and Varchasva. Registration is on the spot at the stall.
 
 ## Stumble Guys
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Dash, jump, and tumble your way through hilarious obstacle courses.
 Category: Informals and Varchasva. Registration is on the spot at the stall.
 
 ## Free Fire
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Dive into fast-paced survival battles where every move counts.
 Category: Informals and Varchasva. Registration is on the spot at the stall.
 
 # What are the E-Cell events at Meraz 7.0
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Where ideas meet industry, develop innovations, pitch solutions, and turn concepts into real-world impact.
 The 1 E-Cell event: Steel InTech Industrial Innovation Challenge.
 
 ## Steel InTech Industrial Innovation Challenge
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Apply engineering insight to solve real industrial and materials-based problems from Steel InTech.
 Category: E-Cell. Registration is not open yet; the Events page lists it as Coming Soon.
 
 # What are the FinTech events at Meraz 7.0
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Where innovation meets implementation, build solutions, pitch disruptions, and transform finance into impact.
 The 2 FinTech events: TradeX, Nivesh Paheli.
 
 ## TradeX
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 Ready to test your instincts? TradeX brings you an all-India live trading simulation where you can buy and sell stocks in real-time as per live Indian market data! Build, manage, and grow your virtual ₹10L portfolio in the live market arena.
 Category: FinTech. Registration is not open yet; the Events page lists it as Coming Soon.
 
 ## Nivesh Paheli
-url: https://meraz7.vercel.app/events/
+url: https://meraz.iitbhilai.ac.in/events/
 An interactive treasure hunt with a financial twist, aimed at making finance learning exciting and accessible. Participants solve a sequence of finance-based clues and puzzles to reach the final treasure.
 Category: FinTech. Registration is not open yet; the Events page lists it as Coming Soon.
 
 # What is the Campus Ambassador programme
-url: https://meraz7.vercel.app/outreach/
+url: https://meraz.iitbhilai.ac.in/outreach/
 The Campus Ambassador programme lets students from other colleges promote Meraz
 and earn rewards based on how many registrations they refer. Meraz 7.0 has 31
 ambassadors across 9 colleges.
 
 # How do I become a Campus Ambassador
-url: https://meraz7.vercel.app/outreach/
+url: https://meraz.iitbhilai.ac.in/outreach/
 Apply through the "Apply as a Campus Ambassador" Google Form linked on the
 Outreach page. The full rulebook is on the same page as a PDF,
-https://meraz7.vercel.app/outreach/ca-rulebook.pdf.
+https://meraz.iitbhilai.ac.in/outreach/ca-rulebook.pdf.
 
 # How many Campus Ambassadors does Meraz 7.0 have
-url: https://meraz7.vercel.app/outreach/
+url: https://meraz.iitbhilai.ac.in/outreach/
 31 Campus Ambassadors, from 9 colleges.
 
 # Which colleges have Meraz Campus Ambassadors
-url: https://meraz7.vercel.app/outreach/
+url: https://meraz.iitbhilai.ac.in/outreach/
 Nine colleges: MSME Technology Centre Durg, Shri Shankaracharya Technical
 Campus Bhilai, Bhilai Institute of Technology Durg, Rungta International Skills
 University, NIT Raipur, Rungta University, Chhattisgarh Institute of Technology
 Raipur, Manipal University Jaipur and IIT Patna.
 
 ## Who are the Campus Ambassadors from MSME Technology Centre, Durg
-url: https://meraz7.vercel.app/outreach/
+url: https://meraz.iitbhilai.ac.in/outreach/
 Bhavesh Prasad Mahilang, Doneshwar, Omkar, Ayush, Vedprakash, Pratyush Ranjan
 Barik, Harishchandra, Rupesh Sahu, Kushal, Nitesh Yadav, Arin Kumar, Tikendra
 Dewangan, Dev Prakash Chandrakar, Peeyush Ratre, Mohit and Rustam Chanap.
 
 ## Who are the Campus Ambassadors from Shri Shankaracharya Technical Campus, Bhilai
-url: https://meraz7.vercel.app/outreach/
+url: https://meraz.iitbhilai.ac.in/outreach/
 Arpita Hota, Muskan Verma, Domendra Kumar Sahu and Shishir Shukla.
 
 ## Who are the Campus Ambassadors from Bhilai Institute of Technology, Durg
-url: https://meraz7.vercel.app/outreach/
+url: https://meraz.iitbhilai.ac.in/outreach/
 Mohmmad Noman Haque, Manish Bisai and Aishwarya Suhane.
 
 ## Who are the Campus Ambassadors from Rungta International Skills University
-url: https://meraz7.vercel.app/outreach/
+url: https://meraz.iitbhilai.ac.in/outreach/
 Ranjan Kumar and Harsh Kumar.
 
 ## Who are the Campus Ambassadors from NIT Raipur
-url: https://meraz7.vercel.app/outreach/
+url: https://meraz.iitbhilai.ac.in/outreach/
 Roman Bharti and Deepanshu.
 
 ## Who is the Campus Ambassador from IIT Patna
-url: https://meraz7.vercel.app/outreach/
+url: https://meraz.iitbhilai.ac.in/outreach/
 Anmol Singh.
 
 ## Who is the Campus Ambassador from Manipal University Jaipur
-url: https://meraz7.vercel.app/outreach/
+url: https://meraz.iitbhilai.ac.in/outreach/
 Suryanshi Verma.
 
 ## Who is the Campus Ambassador from Rungta University
-url: https://meraz7.vercel.app/outreach/
+url: https://meraz.iitbhilai.ac.in/outreach/
 Anshu Kedia.
 
 ## Who is the Campus Ambassador from Chhattisgarh Institute of Technology, Raipur
-url: https://meraz7.vercel.app/outreach/
+url: https://meraz.iitbhilai.ac.in/outreach/
 Aman Saraf.
 
 # Is there a deadline for Campus Ambassador applications
-url: https://meraz7.vercel.app/outreach/
+url: https://meraz.iitbhilai.ac.in/outreach/
 The Outreach page does not give a closing date for Campus Ambassador
 applications; the application form is open there. For the current deadline,
 call the Outreach Lead, Harsh, on +91 93275 96343.
 
 # How do I volunteer at Meraz
-url: https://meraz7.vercel.app/contact/
+url: https://meraz.iitbhilai.ac.in/contact/
 The Meraz website does not describe a volunteer programme. To ask about
 joining the team, email meraz@iitbhilai.ac.in or call the Fest Head, Arush
 Ranjan, on +91 7780070550.
 
 # What do Campus Ambassadors get
-url: https://meraz7.vercel.app/outreach/
+url: https://meraz.iitbhilai.ac.in/outreach/
 Rewards scale with referrals. At 10 or more you get one free CA pass for the
 Day 3 concert only, two stall-wise discount coupons (one meal and one drink),
 custom Meraz merch and a CA certificate. At 25 or more you get one official
@@ -830,7 +830,7 @@ custom Meraz merch and a CA certificate. At 25 or more you get one official
 two drinks), merch, a CA certificate and an Instagram shoutout.
 
 ## What are the top Campus Ambassador rewards
-url: https://meraz7.vercel.app/outreach/
+url: https://meraz.iitbhilai.ac.in/outreach/
 At 50 or more referrals you get two official 2-day passes (for you and a
 friend), eight stall-wise combo coupons (four meals and four drinks), merch, a
 CA certificate, an Instagram shoutout, a gift hamper, an artist autograph and a
@@ -839,129 +839,129 @@ combo coupons (eight meals and eight drinks), a leadership certificate and a
 memento on the main stage.
 
 # Who do I contact about outreach or campus ambassadors
-url: https://meraz7.vercel.app/outreach/
+url: https://meraz.iitbhilai.ac.in/outreach/
 Harsh, the Outreach Lead, on +91 93275 96343, or the official Instagram
 @meraziitbh. The Contact page also lists the Outreach conveners: Stuti Jain on
 +91 7440779990 and Lanka Devi Satwika on +91 9177926758.
 
 # Which cafes are partnered with Meraz
-url: https://meraz7.vercel.app/outreach/
+url: https://meraz.iitbhilai.ac.in/outreach/
 Three cafes in Bhilai are Meraz partners: Karavas Cafe, Filtr Coffee and
 Fast N Fresh Cafe.
 
 # How does a cafe partner with Meraz
-url: https://meraz7.vercel.app/outreach/
+url: https://meraz.iitbhilai.ac.in/outreach/
 A cafe can register through the "Register your café" Google Form on the
 Outreach page. The Café Partner Program rulebook is on the same page as a PDF,
-https://meraz7.vercel.app/outreach/cafe-rulebook.pdf.
+https://meraz.iitbhilai.ac.in/outreach/cafe-rulebook.pdf.
 
 # Can influencers work with Meraz
-url: https://meraz7.vercel.app/outreach/
+url: https://meraz.iitbhilai.ac.in/outreach/
 Yes. Nine creators are listed as partners on the Outreach page. Influencer
 applications are marked "opening soon", and the Influencer Program rulebook is
 available there as a PDF,
-https://meraz7.vercel.app/outreach/influencer-rulebook.pdf.
+https://meraz.iitbhilai.ac.in/outreach/influencer-rulebook.pdf.
 
 # Which influencers are partnered with Meraz
-url: https://meraz7.vercel.app/outreach/
+url: https://meraz.iitbhilai.ac.in/outreach/
 Shriya Diwan (@style_with_shriya), Yash Pandey (@ig.yash_pandey), Md Adil Khan
 (@aadil.xn), Jiya Chandrakar (@jiya_____.1), Soumya Sinha (@ft.soumzposting),
 Krishna Anand (@krishnaanand1808), Karan Bagga (@the_shredded_medico_),
 Jitendra Singh Bagri (@jitendrabagri55) and Jyoti Parwani (@jyotiparwani_).
 
 # How do I contact Meraz
-url: https://meraz7.vercel.app/contact/
+url: https://meraz.iitbhilai.ac.in/contact/
 Email meraz@iitbhilai.ac.in. The Contact page also lists direct phone numbers
 for the Fest Head, the Fest Convener and each team.
 
 # Who is the Fest Head
-url: https://meraz7.vercel.app/contact/
+url: https://meraz.iitbhilai.ac.in/contact/
 Arush Ranjan is the Fest Head, reachable on +91 7780070550.
 
 # Who is the Fest Convener
-url: https://meraz7.vercel.app/contact/
+url: https://meraz.iitbhilai.ac.in/contact/
 Kumar Utkarsh is the Fest Convener, reachable on +91 7667416430.
 
 # Who do I contact about cultural events
-url: https://meraz7.vercel.app/contact/
+url: https://meraz.iitbhilai.ac.in/contact/
 Convener Andiyappan Rohan on +91 6303011550 or Convener Tancia Boro on
 +91 7002108549.
 
 # Who do I contact about Sci-Tech events
-url: https://meraz7.vercel.app/contact/
+url: https://meraz.iitbhilai.ac.in/contact/
 Convener Aditya Girish Seoker on +91 9511629108 or Convener Kanad Bajpai on
 +91 9302860795.
 
 # Who do I contact about sports and informal events
-url: https://meraz7.vercel.app/contact/
+url: https://meraz.iitbhilai.ac.in/contact/
 Convener Shubham Jha on +91 8797717222 or Convener Harsh Vardhan Singh on
 +91 8400281102.
 
 # Who do I contact about finance or payments
-url: https://meraz7.vercel.app/contact/
+url: https://meraz.iitbhilai.ac.in/contact/
 Convener Varshitha on +91 6281521833 or Convener Ankan Mondal on
 +91 9064825588.
 
 # Who do I contact about media and design
-url: https://meraz7.vercel.app/contact/
+url: https://meraz.iitbhilai.ac.in/contact/
 Convener Manjot Singh on +91 7003603365 or Convener Amit Patel on
 +91 8602275578.
 
 # Who do I contact about management
-url: https://meraz7.vercel.app/contact/
+url: https://meraz.iitbhilai.ac.in/contact/
 Convener Banotu Santhosh on +91 7013751880.
 
 # What is the address for Meraz
-url: https://meraz7.vercel.app/contact/
+url: https://meraz.iitbhilai.ac.in/contact/
 Indian Institute of Technology, Bhilai, Durg, Chhattisgarh, India - 491002.
 
 # Can my company sponsor Meraz
-url: https://meraz7.vercel.app/sponsors/
+url: https://meraz.iitbhilai.ac.in/sponsors/
 Yes. Meraz 7.0 lists sponsor tiers from Title Sponsor and Co-Title Sponsor down
 to Associate Sponsor, Co-Sponsor and Media Partners. Write to
 meraz@iitbhilai.ac.in to discuss sponsorship.
 
 # Who are the Meraz 7.0 sponsors
-url: https://meraz7.vercel.app/sponsors/
+url: https://meraz.iitbhilai.ac.in/sponsors/
 The Associate Sponsors are SAIL (BSP) and CG Samvad. The Co-Sponsor is BOB,
 Bank of Baroda. The Media Partners are News24 and Lalluram.
 
 # Is there a title sponsor for Meraz 7.0
-url: https://meraz7.vercel.app/sponsors/
+url: https://meraz.iitbhilai.ac.in/sponsors/
 Not yet announced. The Sponsors page lists both the Title Sponsor and the
 Co-Title Sponsor as "To be announced".
 
 # Do participants get certificates
-url: https://meraz7.vercel.app/outreach/
+url: https://meraz.iitbhilai.ac.in/outreach/
 The website lists a CA certificate for Campus Ambassadors at every reward tier,
 and a leadership certificate at 75+ referrals. It does not mention participation
 certificates for events.
 
 # Is there Meraz merchandise
-url: https://meraz7.vercel.app/outreach/
+url: https://meraz.iitbhilai.ac.in/outreach/
 Custom Meraz merch is part of the Campus Ambassador rewards at every tier. The
 website does not list merch for sale.
 
 # Is food available at Meraz
-url: https://meraz7.vercel.app/passes/
+url: https://meraz.iitbhilai.ac.in/passes/
 The Accommodation Pass includes food for three days, and the About page lists
 culinary flair among the things Meraz embraces. The website does not publish
 menus, prices or a rule on outside food.
 
 # What facilities are at the venue (parking, Wi-Fi, cloakroom)
-url: https://meraz7.vercel.app/contact/
+url: https://meraz.iitbhilai.ac.in/contact/
 The Meraz website does not list parking, Wi-Fi, cloakroom, accessibility or
 medical facilities. For a specific requirement, call the Fest Head, Arush
 Ranjan, on +91 7780070550, or email meraz@iitbhilai.ac.in.
 
 # Is there an age limit for Meraz
-url: https://meraz7.vercel.app/passes/
+url: https://meraz.iitbhilai.ac.in/passes/
 The website does not state an age limit for the fest or for individual events.
 It does say that campus entry needs a valid Access Pass or Student Pass, and
 that the Access Pass is for students with a valid student ID card.
 
 # Who are the Meraz 7.0 conveners and what are their phone numbers
-url: https://meraz7.vercel.app/contact/
+url: https://meraz.iitbhilai.ac.in/contact/
 Meraz 7.0 team contacts: Fest Head Arush Ranjan +91 7780070550; Fest Convener
 Kumar Utkarsh +91 7667416430; Finance: Varshitha +91 6281521833 and Ankan
 Mondal +91 9064825588; Cultural: Andiyappan Rohan +91 6303011550 and Tancia
@@ -974,75 +974,75 @@ Sports and Informals: Shubham Jha +91 8797717222 and Harsh Vardhan Singh
 Outreach Lead, on +91 93275 96343.
 
 # What is the phone number of Arush Ranjan
-url: https://meraz7.vercel.app/contact/
+url: https://meraz.iitbhilai.ac.in/contact/
 Arush Ranjan is the Fest Head for Meraz 7.0 and can be reached on +91 7780070550.
 
 # What is the phone number of Kumar Utkarsh
-url: https://meraz7.vercel.app/contact/
+url: https://meraz.iitbhilai.ac.in/contact/
 Kumar Utkarsh is the Fest Convener for Meraz 7.0 and can be reached on +91 7667416430.
 
 # What is the phone number of Varshitha
-url: https://meraz7.vercel.app/contact/
+url: https://meraz.iitbhilai.ac.in/contact/
 Varshitha is the Finance Convener for Meraz 7.0 and can be reached on +91 6281521833. Also known as: Varshita.
 
 # What is the phone number of Ankan Mondal
-url: https://meraz7.vercel.app/contact/
+url: https://meraz.iitbhilai.ac.in/contact/
 Ankan Mondal is the Finance Convener for Meraz 7.0 and can be reached on +91 9064825588.
 
 # What is the phone number of Andiyappan Rohan
-url: https://meraz7.vercel.app/contact/
+url: https://meraz.iitbhilai.ac.in/contact/
 Andiyappan Rohan is the Cultural Convener for Meraz 7.0 and can be reached on +91 6303011550. Also known as: Rohan.
 
 # What is the phone number of Tancia Boro
-url: https://meraz7.vercel.app/contact/
+url: https://meraz.iitbhilai.ac.in/contact/
 Tancia Boro is the Cultural Convener for Meraz 7.0 and can be reached on +91 7002108549.
 
 # What is the phone number of Banotu Santhosh
-url: https://meraz7.vercel.app/contact/
+url: https://meraz.iitbhilai.ac.in/contact/
 Banotu Santhosh is the Management Convener for Meraz 7.0 and can be reached on +91 7013751880. Also known as: Santhosh.
 
 # What is the phone number of Aditya Girish Seoker
-url: https://meraz7.vercel.app/contact/
+url: https://meraz.iitbhilai.ac.in/contact/
 Aditya Girish Seoker is the Sci-Tech Convener for Meraz 7.0 and can be reached on +91 9511629108. Also known as: Aditya, Aditya Seoker, Aditya sir.
 
 # What is the phone number of Kanad Bajpai
-url: https://meraz7.vercel.app/contact/
+url: https://meraz.iitbhilai.ac.in/contact/
 Kanad Bajpai is the Sci-Tech Convener for Meraz 7.0 and can be reached on +91 9302860795. Also known as: Kanad.
 
 # What is the phone number of Stuti Jain
-url: https://meraz7.vercel.app/contact/
+url: https://meraz.iitbhilai.ac.in/contact/
 Stuti Jain is the Outreach Convener for Meraz 7.0 and can be reached on +91 7440779990. Also known as: Stuti.
 
 # What is the phone number of Lanka Devi Satwika
-url: https://meraz7.vercel.app/contact/
+url: https://meraz.iitbhilai.ac.in/contact/
 Lanka Devi Satwika is the Outreach Convener for Meraz 7.0 and can be reached on +91 9177926758. Also known as: Lanka, Satwika.
 
 # What is the phone number of Shubham Jha
-url: https://meraz7.vercel.app/contact/
+url: https://meraz.iitbhilai.ac.in/contact/
 Shubham Jha is the Sports and Informals Convener for Meraz 7.0 and can be reached on +91 8797717222.
 
 # What is the phone number of Harsh Vardhan Singh
-url: https://meraz7.vercel.app/contact/
+url: https://meraz.iitbhilai.ac.in/contact/
 Harsh Vardhan Singh is the Sports and Informals Convener for Meraz 7.0 and can be reached on +91 8400281102.
 
 # What is the phone number of Manjot Singh
-url: https://meraz7.vercel.app/contact/
+url: https://meraz.iitbhilai.ac.in/contact/
 Manjot Singh is the Media and Design Convener for Meraz 7.0 and can be reached on +91 7003603365. Also known as: Manjot.
 
 # What is the phone number of Amit Patel
-url: https://meraz7.vercel.app/contact/
+url: https://meraz.iitbhilai.ac.in/contact/
 Amit Patel is the Media and Design Convener for Meraz 7.0 and can be reached on +91 8602275578.
 
 # What is the phone number of Harsh
-url: https://meraz7.vercel.app/outreach/
+url: https://meraz.iitbhilai.ac.in/outreach/
 Harsh is the Outreach Lead (Campus Ambassador programme) for Meraz 7.0 and can be reached on +91 93275 96343.
 
 # How many people attend Meraz
-url: https://meraz7.vercel.app/about/
+url: https://meraz.iitbhilai.ac.in/about/
 Meraz 7.0 lists 100+ events, 4000+ participants and a 2500+ online audience.
 
 # What does the Meraz 7.0 theme feel like
-url: https://meraz7.vercel.app/about/
+url: https://meraz.iitbhilai.ac.in/about/
 The Great Indian Reverie is described as a waking dream of colour, music and
 wonder: a projector flickering in a village square, a truck rolling past with
 Horn OK Please on its back, a transistor radio crackling from a windowsill.
